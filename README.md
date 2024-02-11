@@ -55,7 +55,21 @@
 ###
 
 <br clear="both">
-
+<h4>Technologies</h4>
+<ul>
+  <li>Object Oriented Programming</li>
+  <li>Design Patterns</li>
+  <li>MERN Stack</li>
+  <li>SDLC</li>
+  <li>Agile</li>
+  <li>Project Management</li>
+  <li>Desktop Application Development</li>
+  <li>Web Application Development</li>
+  <li>Mobile Application Development</li>
+  <li>Machine Learning</li>
+  <li>Artificial Intelligence</li>
+  <li>DevOps</li>
+</ul>
 
 
 ###
