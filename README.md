@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Taneesha Iyenshi and I'm a Computer Engineering Undergraduate, from University of Ruhuna, Sri Lanka</h2>
+<h2>Hi 👋! My name is Taneesha Iyenshi...</h2>
+<h3>I'm a Computer Engineering Undergraduate, from University of Ruhuna, Sri Lanka</h3>
 
 ###
 
@@ -9,11 +10,24 @@
 
 ###
 
-<img align="right" height="150" src="https://www.pngmart.com/files/22/Software-Engineering-PNG-Pic.png"  />
 
+
+###
 ###
 
 <div align="left">
+  <h3><b>Find Me On 👇🏻</b></h3>
+  <a href="https://www.linkedin.com/in/taneesha-iyenshi/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  
+</div>
+<img align="right" height="150" src="https://www.pngmart.com/files/22/Software-Engineering-PNG-Pic.png"  />
+
+###
+<hr/>
+
+<div align="left">
+  <h3><b>Skills :</b></h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" height="30" alt="C logo"  />
@@ -44,25 +58,27 @@
 
 </div>
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/taneesha-iyenshi/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  
-</div>
 
-###
+<hr/>
 
-<br clear="both">
-<h4>Technologies</h4>
-<ul>
+<img align="right" height="150" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/04/photo-1515879218367-8466d910aaa4-scaled.jpg"  />
+<img align="right" height="150" src="https://bleuwire.com/wp-content/uploads/2020/02/software-development-life-cycle-sdlc.png"  />
+
+<img align="right" height="150" src="https://learndiversified.com/wp-content/uploads/2020/07/agile-project-management-approach-1536x864.png"  />
+
+
+<h3><b>Technologies Used :</b></h3>
+<ul type="circle">
   <li>Object Oriented Programming</li>
   <li>Design Patterns</li>
   <li>MERN Stack</li>
   <li>SDLC</li>
+
   <li>Agile</li>
   <li>Project Management</li>
+  
+  <img align="right" height="150" src="https://www.creatix9.co.uk/wp-content/uploads/2020/04/Customized-IOS-Application-Development.png"  />
   <li>Desktop Application Development</li>
   <li>Web Application Development</li>
   <li>Mobile Application Development</li>
@@ -70,6 +86,13 @@
   <li>Artificial Intelligence</li>
   <li>DevOps</li>
 </ul>
+
+
+
+<hr/>
+
+
+<h3><b>My Projects :</b></h3>
 
 
 ###
