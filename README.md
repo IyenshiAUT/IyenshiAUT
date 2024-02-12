@@ -95,9 +95,10 @@
 <h3><b>My Projects :</b></h3>
 
 <div style="width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <a href="https://github.com/IyenshiAUT/Machine-Learning-Project-Predicting-the-Risk-of-having-a-Stroke/blob/main/README.md">
-  <h4 style="color: #333;">Machine Learning Project</h4></a>
+
+  <h4 style="color: #333;">Machine Learning Project</h4>
   <p style="color: #666;">This is based on predicting the risk of having stroke using the demographics of a person. Here there are two models using Logistic Regression and Naive Bayes algorithms respectively.</p>
+  <a href="https://github.com/IyenshiAUT/Machine-Learning-Project-Predicting-the-Risk-of-having-a-Stroke/blob/main/README.md"><img src ="http://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png"/></a>
 </div>
 
 
