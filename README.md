@@ -98,7 +98,7 @@
 
   <h4 style="color: #333;">Machine Learning Project</h4>
   <p style="color: #666;">This is based on predicting the risk of having stroke using the demographics of a person. Here there are two models using Logistic Regression and Naive Bayes algorithms respectively.</p>
-  <a href="https://github.com/IyenshiAUT/Machine-Learning-Project-Predicting-the-Risk-of-having-a-Stroke/blob/main/README.md"><img src ="http://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png"/></a>
+  <a href="https://github.com/IyenshiAUT/Machine-Learning-Project-Predicting-the-Risk-of-having-a-Stroke/blob/main/README.md"><img src ="http://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png" width="20%"/></a>
 </div>
 
 
