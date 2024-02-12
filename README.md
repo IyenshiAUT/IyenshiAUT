@@ -93,7 +93,7 @@
 
 
 <h3><b>My Projects :</b></h3>
-<a href="">
+<a href="https://github.com/IyenshiAUT/Machine-Learning-Project-Predicting-the-Risk-of-having-a-Stroke/blob/main/README.md">
 <div style="width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   
   <h4 style="color: #333;">Machine Learning Project</h4>
