@@ -92,13 +92,20 @@
 <hr/>
 
 
-<h3><b>My Projects :</b></h3>
+<h3><b>My Main Projects :</b></h3>
 
 <div style="width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
   <h4 style="color: #333;">Machine Learning Project</h4>
   <p style="color: #666;">This is based on predicting the risk of having stroke using the demographics of a person. Here there are two models using Logistic Regression and Naive Bayes algorithms respectively.</p>
   <a href="https://github.com/IyenshiAUT/Machine-Learning-Project-Predicting-the-Risk-of-having-a-Stroke/blob/main/README.md"><img src ="http://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png" width="20%"/></a>
+</div>
+
+<div style="width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+
+  <h4 style="color: #333;">Diary+</h4>
+  <p style="color: #666;">Diary+ is an innovative application that places a premium on privacy and security, ensuring the protection of your personal information through secure user profiles for seamless registration and login across devices. It makes the path to experience dynamic daily diaries, offering the flexibility to edit entries at any time while receiving personalized mood tips for maintaining a positive mindset. It helps to elevate the user's productivity with customizable smart to-do lists and visually trace his/her emotional journey through a tailored calendar. A user can immerse himself/herself in nostalgia with time travel, revisiting past moments. More than a mere diary, Diary Plus stands as a silent supporter, guiding you through life's adventures, fostering reflection, and illuminating the path to brighter days.</p>
+  <a href="https://github.com/IyenshiAUT/Diary-Mobile-Application/blob/main/README.md"><img src ="http://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png" width="20%"/></a>
 </div>
 
 
