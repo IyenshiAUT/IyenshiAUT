@@ -73,6 +73,7 @@
   <li>Object Oriented Programming</li>
   <li>Design Patterns</li>
   <li>MERN Stack</li>
+  <li>Spring Boot</li>
   <li>SDLC</li>
 
   <li>Agile</li>
@@ -84,7 +85,9 @@
   <li>Mobile Application Development</li>
   <li>Machine Learning</li>
   <li>Artificial Intelligence</li>
+  <li>Deep Learning</li>
   <li>DevOps</li>
+  <li>Embedded System Design and Programmingli>
 </ul>
 
 
