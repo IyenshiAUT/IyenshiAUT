@@ -108,5 +108,12 @@
   <a href="https://github.com/IyenshiAUT/Diary-Mobile-Application/blob/main/README.md"><img src ="http://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png" width="20%"/></a>
 </div>
 
+<div style="width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+
+  <h4 style="color: #333;">Authenticated Voting System using RFID</h4>
+  <p style="color: #666;">In today’s world, security and accuracy in voting processes are more important than ever. This project aims to address these concerns by leveraging RFID technology to ensure that each voter can cast their vote securely and only once.</p>
+  <a href="https://github.com/IyenshiAUT/Autheticated-Voting-System-using-RFID/blob/main/README.md"><img src ="http://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png" width="20%"/></a>
+</div>
+
 
 ###
