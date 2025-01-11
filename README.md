@@ -10,6 +10,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IyenshiAUT&layout=compact&theme=tokyonight"/>
 
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=IyenshiAUT&theme=tokyonight"/>
+<img src = "https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy"/>
+
 
 
 </div>
