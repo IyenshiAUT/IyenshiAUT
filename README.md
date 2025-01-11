@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IyenshiAUT&theme=dracula" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IyenshiAUT&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Russell's%20GitHub%20Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IyenshiAUT&&cache_seconds=10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 
 </div>
