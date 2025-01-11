@@ -78,6 +78,9 @@
 
 <h3><b>Technologies Used :</b></h3>
 <ul type="circle">
+ <li>Data Scienceg</li>
+ <li>Machine Learning</li>
+ <li>Deep Learning</li>
   <li>Object Oriented Programming</li>
   <li>Design Patterns</li>
   <li>MERN Stack</li>
