@@ -5,12 +5,13 @@
 
 <div align="center">
 
- <img src ="https://github-readme-stats.vercel.app/api?username=IyenshiAUT&show_icons=true&theme=tokyonight&hide_title=true"/>
+ <img src ="https://github-readme-stats.vercel.app/api?username=IyenshiAUT&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IyenshiAUT&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IyenshiAUT&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=IyenshiAUT&theme=tokyonight"/>
-<img src = "https://github-profile-trophy.vercel.app/?username=IyenshiAUT&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy"/>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=IyenshiAUT&theme=tokyonight&cache_seconds=1800"/>
+
+<img src = "https://github-profile-trophy.vercel.app/?username=IyenshiAUT&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy&cache_seconds=1800"/>
 
 
 
