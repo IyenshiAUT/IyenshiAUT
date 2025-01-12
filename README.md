@@ -99,7 +99,7 @@
   <li>Artificial Intelligence</li>
   <li>Deep Learning</li>
   <li>DevOps</li>
-  <li>Embedded System Design and Programmingli>
+  <li>Embedded System Design and Programming</li>
 </ul>
 
 
