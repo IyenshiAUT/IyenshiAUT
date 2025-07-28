@@ -130,5 +130,12 @@
   <a href="https://github.com/IyenshiAUT/Autheticated-Voting-System-using-RFID/blob/main/README.md"><img src ="http://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png" width="20%"/></a>
 </div>
 
+<div style="width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+
+  <h4 style="color: #333;">𝐒𝐞𝐧𝐭𝐢𝐦𝐞𝐧𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐟𝐨𝐫 𝐌𝐨𝐯𝐢𝐞 𝐑𝐞𝐯𝐢𝐞𝐰</h4>
+  <p style="color: #666;">This project is aims to predict the  movie reviews as positive or negative, helping users gauge public opinion. It was developed mainly using NLP, RNN, LSTM and Tensorflow</p>
+  <a href="https://github.com/IyenshiAUT/SentimentalAnalysis/blob/main/README.md"><img src ="http://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png" width="20%"/></a>
+</div>
+
 
 ###
